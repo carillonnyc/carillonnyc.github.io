@@ -1,0 +1,38 @@
+brand:
+  name: Carillon NYC
+menu-string: Menu
+
+nav:
+  - title: About
+    url: '#about'
+  - title: Events
+    url: '#events'
+  - title: Team
+    url: '#team'
+  - title: Donate
+    url: '#donate'
+  - title: Contact
+    url: '#contact'
+
+copyright: Copyright &copy; Carillon NYC 2020
+
+social-buttons:
+  - icon: fa fa-twitter
+    url: '#'
+  - icon: fa fa-facebook
+    url: '#'
+  - icon: fa fa-linkedin
+    url: '#'
+
+quicklinks:
+  - title: Privacy Policy
+    url: '#'
+  - title: Terms of Use
+    url: '#'
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'
